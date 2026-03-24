@@ -53,6 +53,8 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/JackyST0/awesome-agent
 .\install.ps1 -Platform cursor -ListInstalled    # 查看已安装
 ```
 
+> 注意：安装脚本当前仅用于安装本仓库 `examples/` 目录中的内置示例 Skills，并不负责安装下方 awesome list 里收录的所有第三方项目。
+
 ### 手动安装
 
 ```bash

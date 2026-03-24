@@ -51,6 +51,8 @@ curl -sL https://raw.githubusercontent.com/JackyST0/awesome-agent-skills/main/in
 irm https://raw.githubusercontent.com/JackyST0/awesome-agent-skills/main/install.ps1 | iex
 ```
 
+> Note: The installer currently installs the bundled example skills from this repository's `examples/` directory. It is not a general-purpose package manager for every third-party project listed below.
+
 ### Manual Install
 
 ```bash
