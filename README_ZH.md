@@ -129,8 +129,7 @@ cp -r my-skill .github/skills/
 
 ```bash
 # 克隆到全局目录
-git clone https://github.com/JackyST0/awesome-agent-skills.git
-cp -r awesome-agent-skills/examples/code-review ~/.cursor/skills/
+git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 ```
 
 > 💡 **提示**：全局 skills 对所有项目生效，项目级 skills 仅对当前项目生效。
