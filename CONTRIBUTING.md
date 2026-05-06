@@ -22,6 +22,8 @@
 
 4. 提交 **Pull Request**
 
+> 在线搜索页的数据会在 PR 合并后由 GitHub Actions 从 `README.md` 和 `README_ZH.md` 自动生成，无需手动编辑。
+
 ### 收录要求
 
 #### 通用要求
@@ -140,6 +142,8 @@ Thanks for your interest in contributing to Awesome Agent Skills!
 ```
 
 4. Submit a **Pull Request**
+
+> The online search page is generated automatically from `README.md` and `README_ZH.md` by GitHub Actions after PRs are merged. No manual search-index edits are required.
 
 ### Inclusion Requirements
 
