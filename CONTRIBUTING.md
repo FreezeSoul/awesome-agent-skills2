@@ -22,6 +22,8 @@
 
 4. 提交 **Pull Request**
 
+> 在线搜索页的数据会在 PR 合并后由 GitHub Actions 从 `README.md` 和 `README_ZH.md` 自动生成，无需手动编辑。
+
 ### 收录要求
 
 #### 通用要求
@@ -45,6 +47,7 @@
 - [ ] 提供中英文描述
 - [ ] 包含使用示例
 - [ ] 商业产品封装通常需要更高的社区认可度
+- [ ] 第三方托管试用 / Demo 入口需要清晰说明运行方式、数据处理、隐私政策和维护责任；涉及用户代码、diff、日志或凭据的外部服务通常不会直接加入 README
 
 ### 格式规范
 
@@ -141,6 +144,8 @@ Thanks for your interest in contributing to Awesome Agent Skills!
 
 4. Submit a **Pull Request**
 
+> The online search page is generated automatically from `README.md` and `README_ZH.md` by GitHub Actions after PRs are merged. No manual search-index edits are required.
+
 ### Inclusion Requirements
 
 #### General Requirements
@@ -164,6 +169,7 @@ Thanks for your interest in contributing to Awesome Agent Skills!
 - [ ] Provide bilingual description (English/Chinese)
 - [ ] Include usage examples
 - [ ] Commercial product wrappers typically require higher community validation
+- [ ] Third-party hosted trials / demos should clearly document runtime behavior, data handling, privacy policy, and maintenance responsibility; external services that process user code, diffs, logs, or credentials are generally not linked directly from the README
 
 ### Format Guidelines
 

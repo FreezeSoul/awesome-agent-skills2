@@ -118,6 +118,7 @@ Skills work across multiple platforms:
 
 ## Development Tools
 
+- [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace/blob/master/skills/agenttrace-session-audit/SKILL.md) - Audit local AI coding-agent session health, cost, failures, and diffs.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills and slash-command workflows for AI coding agents.
 - [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - AI security review GitHub Action (Official).
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits security research and audit Skills.
@@ -132,6 +133,7 @@ Skills work across multiple platforms:
 - [Supabase Agent Skills](https://github.com/supabase/agent-skills) - PostgreSQL best practices Skill by Supabase.
 - [Expo Skills](https://github.com/expo/skills) - Expo/React Native development Skills.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Browser automation Skill.
+- [Xquik x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X (Twitter) data Skill with REST endpoints, MCP tools, webhooks, SDKs, and automation workflows.
 - [code-review](https://github.com/JackyST0/awesome-agent-skills/tree/main/examples/code-review) - Smart code review example Skill.
 - [git-commit](https://github.com/JackyST0/awesome-agent-skills/tree/main/examples/git-commit) - Git commit message generator Skill.
 - [unit-test-generator](https://github.com/JackyST0/awesome-agent-skills/tree/main/examples/unit-test-generator) - Unit test auto-generator Skill.
@@ -150,6 +152,7 @@ Skills work across multiple platforms:
 - [gingiris-opensource](https://github.com/Gingiris/gingiris-opensource) - Open source marketing playbook focused on GitHub growth and launch strategy.
 - [gingiris-b2b-growth](https://github.com/Gingiris/gingiris-b2b-growth) - B2B SaaS growth playbook covering PLG, SLG, and go-to-market strategy.
 - [gingiris-aso-growth](https://github.com/Gingiris/gingiris-aso-growth) - ASO and mobile app growth playbook for cold start, UGC, and distribution.
+- [salespeak-ai/buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill) - B2B vendor evaluation skill: 7-dimension scoring and evidence-tracked scorecards for procurement and build-vs-buy decisions.
 
 ## DevOps
 
@@ -159,6 +162,7 @@ Skills work across multiple platforms:
 
 ## Data Processing
 
+- [bilig-workpaper](https://github.com/proompteng/bilig/tree/main/skills/bilig-workpaper) - Formula-backed WorkPaper skill for editing cells, recalculating, verifying readback, and persisting spreadsheet logic from agents.
 - [d3-visualization](https://github.com/ComposioHQ/awesome-claude-skills#data-visualization) - D3.js data visualization Skill.
 - [context-engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - Context engineering and multi-Agent architecture.
 

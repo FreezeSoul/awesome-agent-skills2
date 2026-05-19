@@ -142,7 +142,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 |------|------|-------|------|
 | Agent Skills 开放标准 | Agent Skills 官方规范文档 | - | [skill.md](https://skill.md/) |
 | Agent Skills 规范 | SKILL.md 格式规范 | - | [agentskills.io](https://agentskills.io/specification) |
-| anthropics/skills | ⭐ Anthropic 官方 Agent Skills 仓库 | 127.7k | [GitHub](https://github.com/anthropics/skills) |
+| anthropics/skills | ⭐ Anthropic 官方 Agent Skills 仓库 | 136.3k | [GitHub](https://github.com/anthropics/skills) |
 | GitHub Docs: About agent skills | GitHub 官方 agent skills 概览，涵盖支持的宿主环境与 `gh skill` | - | [GitHub Docs](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills) |
 | GitHub Docs: Adding agent skills for GitHub Copilot | GitHub 官方创建、安装与发布 agent skills 指南 | - | [GitHub Docs](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/add-skills) |
 | vercel-labs/skills | ⭐ Vercel 官方 Skills CLI 工具（`npx skills add`） | 5.4k | [GitHub](https://github.com/vercel-labs/add-skill) |
@@ -158,16 +158,16 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 
 | 名称 | 描述 | Stars | 链接 |
 |------|------|-------|------|
-| awesome-cursorrules | ⭐ 最全面的 Cursor Rules 合集 | 39.4k | [GitHub](https://github.com/PatrickJS/awesome-cursorrules) |
-| everything-claude-code | ⭐ Claude Code 配置大全（agents/skills/hooks） | 172.7k | [GitHub](https://github.com/affaan-m/everything-claude-code) |
-| awesome-claude-skills | ⭐ Composio 维护的 Claude Skills 合集 | 57.8k | [GitHub](https://github.com/ComposioHQ/awesome-claude-skills) |
+| awesome-cursorrules | ⭐ 最全面的 Cursor Rules 合集 | 39.6k | [GitHub](https://github.com/PatrickJS/awesome-cursorrules) |
+| everything-claude-code | ⭐ Claude Code 配置大全（agents/skills/hooks） | 185.6k | [GitHub](https://github.com/affaan-m/everything-claude-code) |
+| awesome-claude-skills | ⭐ Composio 维护的 Claude Skills 合集 | 60.3k | [GitHub](https://github.com/ComposioHQ/awesome-claude-skills) |
 | kasetto | 用 Rust 编写的极速 AI 技能管理器 | — | [GitHub](https://github.com/pivoshenko/kasetto) |
-| awesome-claude-code | ⭐ Claude Code skills/hooks/插件合集 | 42.4k | [GitHub](https://github.com/hesreallyhim/awesome-claude-code) |
-| openskills | ⭐ 通用 Skills 加载器（npm 安装） | 10.0k | [GitHub](https://github.com/numman-ali/openskills) |
+| awesome-claude-code | ⭐ Claude Code skills/hooks/插件合集 | 44.0k | [GitHub](https://github.com/hesreallyhim/awesome-claude-code) |
+| openskills | ⭐ 通用 Skills 加载器（npm 安装） | 10.2k | [GitHub](https://github.com/numman-ali/openskills) |
 | awesome-claude-skills | VoltAgent 维护的 Claude Skills 合集 | 4.4k | [GitHub](https://github.com/VoltAgent/awesome-claude-skills) |
-| claude-skills | Simon Willison 的 Claude Skills 文档 | 921 | [GitHub](https://github.com/simonw/claude-skills) |
-| claude-skills-collection | 官方与社区 Skills 精选集合 | 641 | [GitHub](https://github.com/abubakarsiddik31/claude-skills-collection) |
-| cursor-rules-and-prompts | Cursor 规则与提示词集合 | 224 | [GitHub](https://github.com/thehimel/cursor-rules-and-prompts) |
+| claude-skills | Simon Willison 的 Claude Skills 文档 | 923 | [GitHub](https://github.com/simonw/claude-skills) |
+| claude-skills-collection | 官方与社区 Skills 精选集合 | 655 | [GitHub](https://github.com/abubakarsiddik31/claude-skills-collection) |
+| cursor-rules-and-prompts | Cursor 规则与提示词集合 | 226 | [GitHub](https://github.com/thehimel/cursor-rules-and-prompts) |
 | Ai-Agent-Skills | ⭐ AI Skills 通用安装器（Homebrew for Skills） | 774 | [GitHub](https://github.com/skillcreatorai/Ai-Agent-Skills) |
 | claude-code-kit | Claude Code 工具包，自动激活 skills | 89 | [GitHub](https://github.com/blencorp/claude-code-kit) |
 | best-skills | 通用高质量 Skills 合集，涵盖论文写作、开发流程、自媒体创作等 | 264 | [GitHub](https://github.com/xstongxue/best-skills) |
@@ -178,6 +178,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 
 | 名称 | 描述 | 平台 | 链接 |
 |------|------|------|------|
+| agenttrace-session-audit | 审计本地 AI 编程 Agent 会话的健康度、成本、失败与差异 | All | [GitHub](https://github.com/luoyuctl/agenttrace/blob/master/skills/agenttrace-session-audit/SKILL.md) |
 | addyosmani/agent-skills | 面向 AI 编程代理的生产级工程技能与斜杠命令工作流 | All | [GitHub](https://github.com/addyosmani/agent-skills) |
 | claude-code-security-review | ⭐ AI 安全审查 GitHub Action（官方） | Claude | [GitHub](https://github.com/anthropics/claude-code-security-review) |
 | trailofbits/skills | ⭐ Trail of Bits 安全研究和审计 Skills | Claude | [GitHub](https://github.com/trailofbits/skills) |
@@ -192,6 +193,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 | supabase/agent-skills | ⭐ Supabase Postgres 最佳实践 Skill（1.2k ⭐） | All | [GitHub](https://github.com/supabase/agent-skills) |
 | expo/skills | ⭐ Expo/React Native 开发 Skills（931 ⭐） | All | [GitHub](https://github.com/expo/skills) |
 | browser-use/browser-use | 浏览器自动化 Skill（78.1k ⭐） | All | [GitHub](https://github.com/browser-use/browser-use) |
+| Xquik x-twitter-scraper | X（Twitter）数据平台 Skill，提供 REST API、MCP 工具、webhooks、SDK 和自动化工作流（66 ⭐） | All | [GitHub](https://github.com/Xquik-dev/x-twitter-scraper) |
 | code-review | 智能代码审查示例 Skill | All | [示例](examples/code-review/) |
 | git-commit | Git 提交信息生成示例 Skill | All | [示例](examples/git-commit/) |
 | unit-test-generator | 单元测试自动生成 Skill | All | [示例](examples/unit-test-generator/) |
@@ -212,6 +214,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 | gingiris-opensource | 面向 GitHub 增长与开源发布策略的营销 Playbook | All | [GitHub](https://github.com/Gingiris/gingiris-opensource) |
 | gingiris-b2b-growth | 覆盖 PLG、SLG 与 GTM 策略的 B2B SaaS 增长 Playbook | All | [GitHub](https://github.com/Gingiris/gingiris-b2b-growth) |
 | gingiris-aso-growth | 面向冷启动、UGC 与分发策略的 ASO 与移动增长 Playbook | All | [GitHub](https://github.com/Gingiris/gingiris-aso-growth) |
+| salespeak-ai/buyer-eval-skill | 结构化 B2B 软件供应商评估：7 维度评分与证据追踪的评分卡，用于采购与自建/采购决策 | All | [GitHub](https://github.com/salespeak-ai/buyer-eval-skill) |
 | changelog-generator | 从 Git 提交自动生成 Changelog | Claude | [ComposioHQ](https://github.com/ComposioHQ/awesome-claude-skills) |
 
 ## DevOps
@@ -228,6 +231,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 
 | 名称 | 描述 | 平台 | 链接 |
 |------|------|------|------|
+| bilig-workpaper | 公式驱动的 WorkPaper Skill，可让 Agent 编辑单元格、重新计算、校验回读并持久化表格业务逻辑 | All | [GitHub](https://github.com/proompteng/bilig/tree/main/skills/bilig-workpaper) |
 | d3-visualization | D3.js 数据可视化 Skill | Claude | [ComposioHQ](https://github.com/ComposioHQ/awesome-claude-skills) |
 | context-engineering | 上下文工程和多 Agent 架构 Skills | All | [GitHub](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) |
 
